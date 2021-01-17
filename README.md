@@ -9,4 +9,4 @@ a proof of concept, open sourced, smart glass built with:
 - a [Coral Dev Board](https://coral.ai/products/dev-board/) for Machine Learning and Object Recognition
 
 # unPi Lidar Glass
-a commercial iOS application which uses iPhone 12 Pro Lidar to create a best in class smart visor for the Blind
+a commercial iOS application which uses iPhone 12 Pro's Lidar to create a best in class smart visor for the Blind
