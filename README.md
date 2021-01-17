@@ -1,10 +1,10 @@
 # unPi Zero Glass
-a proof of concept, simple smart glass built with:
+a proof of concept, open sourced, simple smart glass built with:
 - a [Raspberry Pi Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-w/)
 - a ToF/[laser distance sensor](https://shop.pimoroni.com/products/vl53l1x-breakout)
 
 # unPi Pro Glass
-a proof of concept, open sourced, smart glass built with:
+a proof of concept, open sourced, better smart glass built with:
 - 2x [Raspberry Pi Zero](https://www.raspberrypi.org/products/raspberry-pi-zero/)s
 - 2x [camera for RPi Zero](https://shop.pimoroni.com/products/raspberry-pi-zero-camera-module?variant=37751082058)s
 - 4x ToF/[laser distance sensor](https://shop.pimoroni.com/products/vl53l1x-breakout)s
