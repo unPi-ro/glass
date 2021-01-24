@@ -1,3 +1,7 @@
+<iframe src="https://player.vimeo.com/video/502333479" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+----
+
 # unPi Zero Glass
 a proof of concept, open sourced, simple smart glass built with:
 - a [Raspberry Pi Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-w/)
