@@ -18,7 +18,7 @@ a proof of concept, open sourced, cheapest smart glass, built with MicroPython o
 - a [bit curved plastic glasses](https://www.amazon.de/gp/product/B0865YXFWH/) as a mounting surface
 
 # unPi Pro Glass
-a proof of concept, open sourced, better smart glass, built with Python, OpenCV, TensorFlow on:
+a proof of concept, open sourced, better smart glass, built with Python on:
 - up to 2x [Raspberry Pi Zero](https://www.raspberrypi.org/products/raspberry-pi-zero/)s for sensor contol and data aquisition
 - up to 4x ToF/[laser distance sensor](https://shop.pimoroni.com/products/vl53l1x-breakout)s
 - up to 2x [bone conductor speaker](https://shop.pimoroni.com/products/adafruit-bone-conductor-transducer-with-wires-8-ohm-1-watt)s for user feedback
