@@ -12,7 +12,7 @@ a proof of concept, open sourced, simple smart glass, built with Python on:
 - a [battery pack for the Raspberry Pi Zero](https://www.tindie.com/products/pisugar/pisugar2-battery-for-raspberry-pi-zero/) as a small UPS with RTK
 
 # unPi Sonar Glass
-a proof of concept, open sourced, cheapest smart glass, built with MicroPython on:
+a proof of concept, [open source](https://github.com/unPi-ro/sonar.glass)d, cheapest smart glass, built with MicroPython on:
 - a [Raspberry Pico with headers](https://shop.pimoroni.com/products/raspberry-pi-pico?variant=32402092326995) on its [small protype board](https://shop.pimoroni.com/products/pico-proto)
 - up to 3x [ultrasonic distance sensor](https://shop.4tronix.co.uk/collections/sensors/products/hc-sr04p-low-voltage-ultrasonic-distance-sensor)s with range up to 4.5 meters
 - up to 2x [vibration motor](https://shop.pimoroni.com/products/vibration-motor-11-6x4-6x4-8mm)s for very simple [haptic](https://en.wikipedia.org/wiki/Haptic_technology) feedback to the user
