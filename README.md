@@ -22,7 +22,7 @@ a proof of concept, open sourced, better smart glass, built with Python, OpenCV,
 - up to 2x [Raspberry Pi Zero](https://www.raspberrypi.org/products/raspberry-pi-zero/)s for sensor contol and data aquisition
 - up to 4x ToF/[laser distance sensor](https://shop.pimoroni.com/products/vl53l1x-breakout)s
 - up to 2x [bone conductor speaker](https://shop.pimoroni.com/products/adafruit-bone-conductor-transducer-with-wires-8-ohm-1-watt)s for user feedback
-- up to 2x [Raspberry Pi Zero Camera Module](https://shop.pimoroni.com/products/raspberry-pi-zero-camera-module?variant=37751082058)s
+- up to 2x [Raspberry Pi Zero Camera Module](https://shop.pimoroni.com/products/raspberry-pi-zero-camera-module?variant=37751082058)s for image aquisition
 - a [Coral Dev Board](https://coral.ai/products/dev-board/) for Machine Learning and Object Recognition
 - a [bit curved plastic glasses](https://www.amazon.de/gp/product/B0865YXFWH/) as a mounting surface _only_ for sensors
 
