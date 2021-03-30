@@ -32,4 +32,4 @@ a proof of concept, open sourced, better smart glass, built with Python on:
 # unPi Lidar Glass
 a commercial iOS application which:
 - uses iPhone 12 Pro's Lidar for object and obstacle detection
-- creates a best in class Smart visor/Glass for the visually impaired
+- creates a best in class Smart Visor for the visually impaired
