@@ -30,5 +30,6 @@ a proof of concept, open sourced, better smart glass, built with Python on:
 - a single [power bank with a **3** Ampers output](https://www.amazon.de/-/en/PowerCore-Essential-External-Delivery-Compatible-dp-B08LG2X98F/dp/B08LG2X98F/) for all the above
 
 # unPi Lidar Glass
-a commercial iOS application which uses:
-- iPhone 12 Pro's Lidar to create a best in class Smart visor/Glass for the Blind
+a commercial iOS application which:
+- uses iPhone 12 Pro's Lidar for object and obstacle detection
+- creates a best in class Smart visor/Glass for the visually impaired
