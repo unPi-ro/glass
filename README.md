@@ -8,16 +8,16 @@ a proof of concept, open sourced, simple smart glass, built with Python on:
 - a ToF/[laser distance sensor](https://shop.pimoroni.com/products/vl53l1x-breakout) with range up to 4 meters
 - an [ultrasonic distance sensor](https://shop.pimoroni.com/products/ultrasonic-distance-sensor-breakout) with range up to 4.5 meters
 - an [haptic buzzer](https://shop.pimoroni.com/products/drv2605l-linear-actuator-haptic-breakout) for in-detail [haptic](https://en.wikipedia.org/wiki/Haptic_technology) feedback to the user
-- a [bit flatter plastic glasses](https://www.amazon.de/gp/product/B00KM0QLCY/) as a mounting surface for everything
-- a [battery pack for the Raspberry Pi Zero](https://www.tindie.com/products/pisugar/pisugar2-battery-for-raspberry-pi-zero/) as a small UPS with RTK
+- a [bit flatter plastic glasses](https://www.amazon.de/gp/product/B00KM0QLCY/) as a mounting surface for all
+- a [battery pack for the Raspberry Pi Zero](https://www.tindie.com/products/pisugar/pisugar2-battery-for-raspberry-pi-zero/) as a small [UPS](https://en.wikipedia.org/wiki/Uninterruptible_power_supply)
 
 # unPi Sonar Glass
 a proof of concept, [open source](https://github.com/unPi-ro/sonar.glass)d, cheapest smart glass, built with MicroPython on:
 - a [Raspberry Pico with headers](https://shop.pimoroni.com/products/raspberry-pi-pico?variant=32402092326995) and its [small protype board](https://shop.pimoroni.com/products/pico-proto)
 - 3x [ultrasonic distance sensor](https://shop.4tronix.co.uk/collections/sensors/products/hc-sr04p-low-voltage-ultrasonic-distance-sensor)s with range up to 4.5 meters
-- 2x [vibration motor](https://shop.pimoroni.com/products/vibration-motor-11-6x4-6x4-8mm)s for very simple [haptic](https://en.wikipedia.org/wiki/Haptic_technology) feedback to the user
+- 2x [vibration motor](https://shop.pimoroni.com/products/vibration-motor-11-6x4-6x4-8mm)s for very simple [haptic](https://en.wikipedia.org/wiki/Haptic_technology) feedback
 - a [bit curved plastic glasses](https://www.amazon.de/gp/product/B0865YXFWH/) as a sensor mounting surface
-- a [pack of 4 rechargeable AA batteries](https://www.amazon.de/-/en/Varta-rechargeable-battery-ready-silver-green/dp/B007FD5WIU/) in a [battery holder with switch](https://shop.pimoroni.com/products/4-x-aa-battery-holder-with-on-off-switch)
+- a [pack of 4 rechargeable AA batteries](https://www.amazon.de/-/en/Varta-rechargeable-battery-ready-silver-green/dp/B007FD5WIU/) in a [battery holder](https://shop.pimoroni.com/products/4-x-aa-battery-holder-with-on-off-switch)
 
 # unPi Pro Glass
 a proof of concept, open sourced, better smart glass, built with Python on:
