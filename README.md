@@ -15,7 +15,7 @@ a proof of concept, open sourced, simple smart glass, built with Python on:
 a proof of concept, [open source](https://github.com/unPi-ro/sonar.glass)d, cheapest smart glass, built with MicroPython on:
 - a [Raspberry Pico with headers](https://shop.pimoroni.com/products/raspberry-pi-pico?variant=32402092326995) and its [small protype board](https://shop.pimoroni.com/products/pico-proto)
 - 3x [ultrasonic distance sensor](https://shop.4tronix.co.uk/collections/sensors/products/hc-sr04p-low-voltage-ultrasonic-distance-sensor)s with range up to 4.5 meters
-- 2x [vibration motor](https://shop.pimoroni.com/products/vibration-motor-11-6x4-6x4-8mm)s for very simple [haptic](https://en.wikipedia.org/wiki/Haptic_technology) feedback
+- 2x [vibration motor](https://shop.pimoroni.com/products/vibration-motor-11-6x4-6x4-8mm)s for simple [haptic](https://en.wikipedia.org/wiki/Haptic_technology) feedback to the user
 - a [bit curved plastic glasses](https://www.amazon.de/gp/product/B0865YXFWH/) as a sensor mounting surface
 - a [pack of 4 rechargeable AA batteries](https://www.amazon.de/-/en/Varta-rechargeable-battery-ready-silver-green/dp/B007FD5WIU/) in a [battery holder](https://shop.pimoroni.com/products/4-x-aa-battery-holder-with-on-off-switch)
 
