@@ -1,3 +1,7 @@
 title: unPi Glass
 description: a proof of concept, smart visor / glass for the Blind
 theme: jekyll-theme-tactile
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-gist
